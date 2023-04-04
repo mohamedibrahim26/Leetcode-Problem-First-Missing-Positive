@@ -22,7 +22,4 @@ Output: 1
 Explanation: The smallest positive integer 1 is missing.
  
 
-Constraints:
 
-1 <= nums.length <= 105
--231 <= nums[i] <= 231 - 1
